@@ -25,7 +25,7 @@
     </parent>
 
     <modelVersion>4.0.0</modelVersion>
-    <artifactId>identity-notification-email</artifactId>i
+    <artifactId>identity-notification-email</artifactId>
     <version>5.0.9-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>WSO2 Carbon - Email Notification Sending Module</name>
