@@ -87,12 +87,12 @@
                             org.wso2.carbon.context; version="${carbon.kernel.package.import.version.range}",
                             org.wso2.carbon.core;version="${carbon.kernel.package.import.version.range}",
                             org.wso2.carbon.identity.notification.mgt.*;
-                            version="${carbon.identity.package.import.version.range}",
+                            version="${carbon.identity.framework.imp.pkg.version.range}",
                         </Import-Package>
                         <Export-Package>
                             !org.wso2.carbon.identity.notification.mgt.email.internal,
                             org.wso2.carbon.identity.notification.mgt.email.*;
-                            version="${carbon.identity.package.export.version}"
+                            version="${identity.carbon.notification.mgt.email.exp.version}"
                         </Export-Package>
                     </instructions>
                 </configuration>
