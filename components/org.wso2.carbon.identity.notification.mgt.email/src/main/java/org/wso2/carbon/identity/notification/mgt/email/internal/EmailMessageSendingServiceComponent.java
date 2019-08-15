@@ -31,7 +31,7 @@ import org.wso2.carbon.identity.notification.mgt.email.EmailSendingModule;
 @SuppressWarnings("unused")
 public class EmailMessageSendingServiceComponent {
 
-    private static Log log = LogFactory.getLog(EmailMessageSendingServiceComponent.class);
+    private static final Log log = LogFactory.getLog(EmailMessageSendingServiceComponent.class);
 
     protected void activate(ComponentContext ctxt) {
 
