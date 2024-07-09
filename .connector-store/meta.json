@@ -3,7 +3,7 @@
     "owner": "WSO2",
     "category": "Notification Sender",
     "documentationUrl": "https://is.docs.wso2.com/en/latest/learn/enabling-notifications-for-user-operations/",
-    "description": "The Email Notification Handler of the WSO2 Identity Server enables you to send notifications to an external endpoint once a user operation (create user, the password of an existing user is changed) has taken place.",
+    "description": "The Email Notification Handler of the WSO2 Identity Server enables you to send notifications to an external endpoint once a user operation (user creation, password change of an existing user) has taken place.",
     "status": "Active",
     "labels": [],
     "releases": [
