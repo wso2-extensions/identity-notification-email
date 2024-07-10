@@ -8,7 +8,7 @@
     "labels": [],
     "releases": [
         {
-            "tagName": "5.1.1",
+            "tagName": "v5.1.1",
             "products": [
                 "IS 6.0.0"
             ]
